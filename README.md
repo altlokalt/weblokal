@@ -12,9 +12,14 @@ to interact with db-database
   npx prisma studio
   npx prisma db push
   
+import { PrismaClient } from '@prisma/client'
+const prisma = new PrismaClient()
+<http://localhost:5555/>
 <https://app.planetscale.com/goqutin-demiqi>
 <goqutin.demiqi@rungel.net>
   goqutin.demiqi@
+
+  <https://clerk.com/docs/nextjs/get-started-with-nextjs>
 
 ## What's next? How do I make an app with this?
 
